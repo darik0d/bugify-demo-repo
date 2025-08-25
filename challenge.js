@@ -1,3 +1,4 @@
+# V2
 function calculateSum(arr) {
   let sum = 0;
   for (let i = 0; i < arr.length; i++) {
@@ -23,3 +24,4 @@ async function fetchData(url) {
     return null;
   }
 }
+
